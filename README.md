@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 </h5> -->
 
 <p align="center">
-  <a href="https://www.typeofnan.com">
-    <img alt="blog" src="https://img.shields.io/badge/typeofnan.com-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
+  <a href="https://typeofnan.me">
+    <img alt="blog" src="https://img.shields.io/badge/typeofnan.me-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
 </p>
 
