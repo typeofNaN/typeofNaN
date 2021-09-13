@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 
 ---
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=typeofNaN&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)](https://github.com/typeofNaN?tab=repositories)
+
+---
+
 <div>
   <a href="/" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeofnan&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
