@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 </h5> -->
 
 <p align="center">
-  <a href="https://www.typeofnan.com">
-    <img alt="blog" src="https://img.shields.io/badge/typeofnan.com-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
+  <a href="https://typeofnan.me">
+    <img alt="blog" src="https://img.shields.io/badge/typeofnan.me-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
 </p>
 
@@ -55,6 +55,10 @@ Here are some ideas to get you started:
   | [nest-service](https://github.com/typeofnan/nest-service) | [`examples`](https://github.surmon.me/nest-service) | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/nest-service?style=flat-square)](https://github.com/typeofnan/nest-service) | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/nest-service?style=flat-square)](https://github.com/typeofnan/nest-service/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/nest-service?style=flat-square)](https://github.com/typeofnan/nest-service/commits/master) | -
   
 <!-- </details> -->
+
+---
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=typeofNaN&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)](https://github.com/typeofNaN?tab=repositories)
 
 ---
 
