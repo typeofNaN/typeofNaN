@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 
 ---
 
+* 😄 See You
+* 🔭 个人站点：https://typeofnan.cn
+* 🌱 微信小程序：typeofNaN
+* 💬 微信公众号：typeofNaN
+* 📫 Email: dmdefine6@gmail.com
+
+---
+
 <!-- <details> -->
   <summary>
     <strong>👆 👉 Homepages and examples for GitHub repositories. 👇<strong>
