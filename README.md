@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h2 align="center">Hi there, 👋 I'm typeofNaN! 😎</h2>
 
 <!-- <h4 align="center">I am passionate about open source software and giving back to others.</h4>
@@ -40,6 +39,12 @@ Here are some ideas to get you started:
 * 🌱 微信小程序：typeofNaN
 * 💬 微信公众号：typeofNaN
 * 📫 Email: dmdefine6@gmail.com
+
+---
+
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=typeofNaN.typeofNaN)](https://visitor-badge.laobi.icu/badge?page_id=typeofNaN.typeofNaN) 
+<a href="https://github.com/typeofNaN"><img src="https://img.shields.io/github/stars/typeofNaN?color=faf408&label=github%20stars&logo=github" /></a> 
+[![stars](https://img.shields.io/github/stars/typeofNaN?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=typeofNaN&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn) 
 
 ---
 
