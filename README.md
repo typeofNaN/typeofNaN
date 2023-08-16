@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, 👋 I'm typeofNaN! 😎</h2>
+<h1 align="center">Hi there, 👋 I'm typeofNaN! 😎</h1>
 
 <p align="center">
   <a href="https://typeofnan.cn">
@@ -8,7 +8,7 @@
 
 ---
 
-* 😄 See You
+* 😄 Long Time No See
 * 🔭 个人站点：https://typeofnan.cn
 * 🌱 微信小程序：typeofNaN
 * 💬 微信公众号：typeofNaN
