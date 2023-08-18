@@ -2,13 +2,12 @@
 
 <p align="center">
   <a href="https://typeofnan.cn">
-    <img alt="blog" src="https://img.shields.io/badge/typeofnan.cn-0088f5?style=for-the-badge&labelColor=f0f0f0&logoColor=0088f5" />
+    <img src="https://img.shields.io/badge/typeofnan.cn-0088f5?style=for-the-badge&labelColor=f0f0f0&logoColor=0088f5" alt="Web Site" />
   </a>
 </p>
 
 ---
-
-😄 Long Time No See
+😘 Long Time No See
 
 🔭 个人站点：https://typeofnan.cn
 
@@ -18,7 +17,7 @@
 
 📝 Blog：https://typeofNaN.githu.io/blog
 
-📫 Email: dmdefine6@gmail.com
+📫 Email：dmdefine6@gmail.com
 
 🏫 江西师范大学 · JXNU
 
@@ -84,9 +83,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET Core"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="40" height="40" alt="denojs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="40" height="40" alt="Deno.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" alt="webpack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" alt="Nuxt.js"/>
