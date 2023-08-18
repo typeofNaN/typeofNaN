@@ -8,14 +8,21 @@
 
 ---
 
-* 😄 Long Time No See
-* 🔭 个人站点：https://typeofnan.cn
-* 🌱 微信小程序：typeofNaN
-* 💬 微信公众号：typeofNaN
-* 📝 Blog：https://typeofNaN.githu.io/blog
-* 📫 Email: dmdefine6@gmail.com
-* 🏫 江西师范大学 · JXNU
-* ✈️ 江西 · 赣州
+😄 Long Time No See
+
+🔭 个人站点：https://typeofnan.cn
+
+🌱 微信小程序：typeofNaN
+
+💬 微信公众号：typeofNaN
+
+📝 Blog：https://typeofNaN.githu.io/blog
+
+📫 Email: dmdefine6@gmail.com
+
+🏫 江西师范大学 · JXNU
+
+✈️ 江西 · 赣州
 
 ---
 
@@ -46,6 +53,7 @@
 | [admin-template](https://github.com/typeofnan/admin-template)           | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/admin-template?style=flat-square)](https://github.com/typeofnan/admin-template)           | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/admin-template?style=flat-square)](https://github.com/typeofnan/admin-template/stargazers)           | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/admin-template?style=flat-square)](https://github.com/typeofnan/admin-template/commits/master)           | -                                                                                                                                                                          |
 | [ncc-china](https://github.com/typeofnan/ncc-china)                     | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/ncc-china?style=flat-square)](https://github.com/typeofnan/ncc-china)                     | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/ncc-china?style=flat-square)](https://github.com/typeofnan/ncc-china/stargazers)                     | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/ncc-china?style=flat-square)](https://github.com/typeofnan/ncc-china/commits/master)                     | -                                                                                                                                                                          |
 | [db-assist](https://github.com/typeofnan/db-assist)                     | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/db-assist?style=flat-square)](https://github.com/typeofnan/db-assist)                     | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/db-assist?style=flat-square)](https://github.com/typeofnan/db-assist/stargazers)                     | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/db-assist?style=flat-square)](https://github.com/typeofnan/db-assist/commits/master)                     | -                                                                                                                                                                          |
+| [simple-vue](https://github.com/typeofnan/simple-vue-two-way-bind)                     | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/simple-vue-two-way-bind?style=flat-square)](https://github.com/typeofnan/simple-vue-two-way-bind)                     | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/simple-vue-two-way-bind?style=flat-square)](https://github.com/typeofnan/simple-vue-two-way-bind/stargazers)                     | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/simple-vue-two-way-bind?style=flat-square)](https://github.com/typeofnan/simple-vue-two-way-bind/commits/master)                     | -                                                                                                                                                                          |
 
 ---
 
