@@ -15,13 +15,13 @@
 
 💬 微信公众号：typeofNaN
 
-📝 Blog：https://typeofNaN.githu.io/blog
+📝 Blog：https://typeofNaN.github.io/blog
 
 📫 Email：dmdefine6@gmail.com
 
 🏫 江西师范大学 · JXNU
 
-✈️ 江西 · 赣州
+🌏 江西 · 赣州
 
 ---
 
