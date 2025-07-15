@@ -23,12 +23,12 @@
 
 🌏 江西 · 赣州
 
----
+<!-- ---
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=typeofNaN.typeofNaN)](https://visitor-badge.laobi.icu/badge?page_id=typeofNaN.typeofNaN)
 <a href="https://github.com/typeofNaN">
   <img src="https://img.shields.io/github/stars/typeofNaN?color=faf408&label=github%20stars&logo=github" />
-</a>
+</a> -->
 
 ---
 
@@ -102,7 +102,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40" alt="Electron"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40" alt="github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  width="40" height="40" alt="github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  width="40" height="40" alt="gitlab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="visualstudio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40" alt="CentOS"/>
