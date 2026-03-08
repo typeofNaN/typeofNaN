@@ -64,7 +64,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=typeofNaN&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)](https://github.com/typeofNaN?tab=repositories) -->
 
----
+<!-- --- -->
 
 <!-- <div>
   <a href="/" align="left">
@@ -74,9 +74,9 @@
   <a href="/" align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=typeofnan&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
   </a>
-</div>
+</div> -->
 
---- -->
+<!-- --- -->
 
 <!-- <div style="flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
