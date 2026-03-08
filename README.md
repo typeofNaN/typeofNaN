@@ -58,6 +58,7 @@
 | [hexo-blog](https://github.com/typeofnan/hexo-blog)                     | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/hexo-blog?style=flat-square)](https://github.com/typeofnan/hexo-blog)                     | [![GitHub forks](https://img.shields.io/github/forks/typeofnan/hexo-blog?style=flat-square)](https://github.com/typeofnan/hexo-blog/forks)                     | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/hexo-blog?style=flat-square)](https://github.com/typeofnan/hexo-blog/stargazers)                     | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/hexo-blog?style=flat-square)](https://github.com/typeofnan/hexo-blog/commits/master)                     | -                                                                                                                                                                          |
 | [compress-images](https://github.com/typeofnan/compress-images)         | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/compress-images?style=flat-square)](https://github.com/typeofnan/compress-images)         | [![GitHub forks](https://img.shields.io/github/forks/typeofnan/compress-images?style=flat-square)](https://github.com/typeofnan/compress-images/forks)         | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/compress-images?style=flat-square)](https://github.com/typeofnan/compress-images/stargazers)         | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/compress-images?style=flat-square)](https://github.com/typeofnan/compress-images/commits/master)         | -                                                                                                                                                                          |
 | [prospect](https://github.com/typeofnan/prospect)                       | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/prospect?style=flat-square)](https://github.com/typeofnan/prospect)                       | [![GitHub forks](https://img.shields.io/github/forks/typeofnan/prospect?style=flat-square)](https://github.com/typeofnan/prospect/forks)                       | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/prospect?style=flat-square)](https://github.com/typeofnan/prospect/stargazers)                       | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/prospect?style=flat-square)](https://github.com/typeofnan/prospect/commits/master)                       | -                                                                                                                                                                          |
+| [typeofNaN-newtab](https://github.com/typeofnan/typeofNaN-newtab)                       | [![GitHub top language](https://img.shields.io/github/languages/top/typeofnan/typeofNaN-newtab?style=flat-square)](https://github.com/typeofnan/typeofNaN-newtab)                       | [![GitHub forks](https://img.shields.io/github/forks/typeofnan/typeofNaN-newtab?style=flat-square)](https://github.com/typeofnan/typeofNaN-newtab/forks)                       | [![GitHub stars](https://img.shields.io/github/stars/typeofnan/typeofNaN-newtab?style=flat-square)](https://github.com/typeofnan/typeofNaN-newtab/stargazers)                       | [![GitHub last commit](https://img.shields.io/github/last-commit/typeofnan/typeofNaN-newtab?style=flat-square)](https://github.com/typeofnan/typeofNaN-newtab/commits/master)                       | -                                                                                                                                                                          |
 
 <!-- ---
 
@@ -65,7 +66,7 @@
 
 ---
 
-<div>
+<!-- <div>
   <a href="/" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeofnan&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
   </a>
@@ -75,9 +76,9 @@
   </a>
 </div>
 
----
+--- -->
 
-<div style="flex;">
+<!-- <div style="flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" alt="typescript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5"/>
@@ -119,4 +120,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="tailwindcss"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-original.svg" width="40" height="40" alt="Travis CI"/>
-</div>
+</div> -->
