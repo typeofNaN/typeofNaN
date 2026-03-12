@@ -15,7 +15,7 @@
 
 💬 微信公众号：typeofNaN
 
-📝 Blog：https://typeofNaN.github.io/vuepress-blog
+📝 Blog：https://blog.typeofnan.cn
 
 📫 Email：dmdefine6@gmail.com
 
